@@ -8,7 +8,7 @@ public class FixDebugThirteen3
    public static void main(String[] args)
    {
       Path file =
-         Paths.get("C:\\Java\\Chapter.13\\DebugData4.txt");
+         Paths.get("DebugData4.txt");
       Scanner kb = new Scanner(System.in);
       String[] array = new String[2];
       String string = "";

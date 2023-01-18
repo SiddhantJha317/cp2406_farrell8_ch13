@@ -8,9 +8,9 @@ public class FixDebugThirteen1
    public static void main(String[] args)
    {
       Path file1 =
-         Paths.get("C:\\Java\\Chapter.13\\DebugData1.txt");
+         Paths.get("DebugData1.txt");
       Path file2 =
-         Paths.get("C:\\Java\\Chapter.13\\DebugData2.txt");
+         Paths.get("DebugData2.txt");
       try
       {
          BasicFileAttributes attr1 =
